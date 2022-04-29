@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db96067d.css",
+    "main.js": "/static/js/main.e4b5259f.js",
+    "static/media/Bitgert.svg": "/static/media/Bitgert.5a536e5fde15c54ac2a095b0f11a61c4.svg",
+    "static/media/logo.svg": "/static/media/logo.89d8f1c0311e53b636e23ba51f8ec2ed.svg",
+    "static/media/MongoDB.svg": "/static/media/MongoDB.6d3d1850f276edfa810f91b6a64e7989.svg",
+    "static/media/NodeJS.svg": "/static/media/NodeJS.b6b29e86e448294bb9751985263c4519.svg",
+    "static/media/ReactJS.svg": "/static/media/ReactJS.fdd3331d261ad6d5e1c92448737aa2aa.svg",
+    "static/media/Hardhat.svg": "/static/media/Hardhat.1498fcd21d440a32094b53b33221f67b.svg",
+    "static/media/3.svg": "/static/media/3.955afddeed3d7e4cd8e40d5164beddee.svg",
+    "static/media/2.svg": "/static/media/2.4c14a9a589a1a472f3e1c902f57a9450.svg",
+    "static/media/6.svg": "/static/media/6.a234c8ebfc0ba58c0881405b45deb351.svg",
+    "static/media/5.svg": "/static/media/5.f8819816b4640c1770e6e8836c9411c0.svg",
+    "static/media/Ethers.svg": "/static/media/Ethers.5aa78212fa00253d6e1c0e94d9c0abc5.svg",
+    "static/media/Polygon.svg": "/static/media/Polygon.97ff139cc7379a42cf141d74a6595fff.svg",
+    "static/media/4.svg": "/static/media/4.fae63e2d4ac17d71b77b14bb8876d43d.svg",
+    "static/media/1.svg": "/static/media/1.0000c3682dc13e3f042a42aa9af22fbe.svg",
+    "index.html": "/index.html",
+    "static/media/Ethereum.svg": "/static/media/Ethereum.c729bd46b192b8ea53dcc0d30b14ad9e.svg",
+    "static/media/Solidity.svg": "/static/media/Solidity.b6b8dc48f02929bccdd33415aaf7ae58.svg",
+    "static/media/JS.svg": "/static/media/JS.0dd1cf6c80bb500c655a617006c1148a.svg",
+    "static/media/HTML.svg": "/static/media/HTML.84c6adac417775a66b5529f1ae8d4572.svg",
+    "static/media/CSS.svg": "/static/media/CSS.9882e252f3baf8b8d57642a1384d8ba3.svg",
+    "main.db96067d.css.map": "/static/css/main.db96067d.css.map",
+    "main.e4b5259f.js.map": "/static/js/main.e4b5259f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db96067d.css",
+    "static/js/main.e4b5259f.js"
+  ]
+}
